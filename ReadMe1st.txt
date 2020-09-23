@@ -1,0 +1,1 @@
+Please, when using this app in IDE, remeber to end the program by clicking 'End' or 'X' on the form, not by stopping through VBEditor. If you do that while the 'lights are down', the screen will remain tinted, and you will have to restart.
